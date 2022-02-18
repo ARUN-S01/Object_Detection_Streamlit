@@ -1,6 +1,7 @@
 lxml
 tensorflow_gpu
 six
+streamlit
 numpy
 opencv_python_headless
 matplotlib
