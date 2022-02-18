@@ -1,5 +1,5 @@
 lxml
-tensorflow_gpu
+tensorflow-cpu
 six
 streamlit
 numpy
