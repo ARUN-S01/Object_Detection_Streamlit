@@ -2,8 +2,7 @@ lxml
 tensorflow_gpu
 six
 numpy
-opencv-python
-opencv-python-headless
+opencv_python_headless
 matplotlib
 mock
 nets
